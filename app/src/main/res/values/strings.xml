@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidAppArchitectureAssignment</string>
+    <string name="title">Task Description</string>
+    <string name="date">DueDate</string>
+    <string name="taskDescription">What is to be done?</string>
+    <string name="taskHint">Enter task here</string>
+    <string name="dueDate">Due date</string>
+    <string name="dateHint">Date not set</string>
+    <string name="save">Save</string>
+</resources>
