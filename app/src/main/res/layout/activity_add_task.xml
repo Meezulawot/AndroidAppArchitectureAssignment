@@ -7,7 +7,7 @@
     android:layout_marginStart="20dp"
     android:layout_marginEnd="20dp"
     android:orientation="vertical"
-    tools:context=".features.task.AddTaskActivity">
+    tools:context=".features.addTask.AddTaskActivity">
 
     <TextView
         android:layout_width="wrap_content"

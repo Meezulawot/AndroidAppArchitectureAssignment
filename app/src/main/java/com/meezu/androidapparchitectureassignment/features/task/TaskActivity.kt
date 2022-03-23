@@ -1,13 +1,13 @@
 package com.meezu.androidapparchitectureassignment.features.task
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.hannesdorfmann.mosby3.mvp.MvpActivity
 import com.meezu.androidapparchitectureassignment.R
+import com.meezu.androidapparchitectureassignment.features.addTask.AddTaskActivity
 import com.meezu.androidapparchitectureassignment.features.shared.adapter.TaskAdapter
 import com.meezu.androidapparchitectureassignment.features.shared.model.response.TaskResponse
 import kotlinx.android.synthetic.main.activity_main.*

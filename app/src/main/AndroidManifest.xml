@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidAppArchitectureAssignment">
         <activity
-            android:name=".features.task.AddTaskActivity"
+            android:name=".features.addTask.AddTaskActivity"
             android:exported="false" />
         <activity
             android:name=".features.task.TaskActivity"

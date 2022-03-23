@@ -1,9 +1,9 @@
-package com.meezu.androidapparchitectureassignment.features.task
+package com.meezu.androidapparchitectureassignment.features.addTask
 
 import android.annotation.SuppressLint
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter
 import com.meezu.androidapparchitectureassignment.features.shared.model.response.AddTaskResponse
-import com.meezu.androidapparchitectureassignment.features.shared.model.response.TaskResponse
+import com.meezu.androidapparchitectureassignment.features.task.TaskInteractor
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 
