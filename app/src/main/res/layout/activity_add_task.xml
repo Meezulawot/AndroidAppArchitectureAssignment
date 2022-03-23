@@ -21,7 +21,7 @@
         android:id="@+id/edtTaskDescription"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/taskHint"/>
+        android:text="@string/taskHint"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -35,7 +35,7 @@
         android:id="@+id/edtDate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/dateHint"/>
+        android:text="@string/dateHint"/>
 
     <Button
         android:id="@+id/btnSave"

@@ -3,8 +3,8 @@
     <string name="title">Task Description</string>
     <string name="date">DueDate</string>
     <string name="taskDescription">What is to be done?</string>
-    <string name="taskHint">Enter task here</string>
+    <string name="taskHint">Go to Gym</string>
     <string name="dueDate">Due date</string>
-    <string name="dateHint">Date not set</string>
+    <string name="dateHint">2022/3/23</string>
     <string name="save">Save</string>
 </resources>
